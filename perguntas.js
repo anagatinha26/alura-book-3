@@ -1,13 +1,13 @@
 criaCartao(
     'Felicidades',
     'O que precisa para ser feliz?',
-    ' Fazer o que realmente ama!!!'
+    ' Fazer o que realmente ama!'
 )
 
 criaCartao(
     'Felicidades',
     'Oque é a felicidade em sua opnião?',
-    'A felicidade, na minha opnião, é um estado de bem-estar que vai além de momentos de alegria. É um equilíbrio interior, uma sensação de satisfação com a vida, mesmo em meio aos desafios.'
+    'É um equilíbrio interior, uma sensação de satisfação com a vida, mesmo em meio aos desafios.'
 )
 
 criaCartao(
